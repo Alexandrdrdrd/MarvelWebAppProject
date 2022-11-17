@@ -17,7 +17,7 @@ class App extends Component {
 
     onCharSelected = (id) => {
         this.setState({
-            selectedChr: id
+            selectedChar: id
         })
     }
 
